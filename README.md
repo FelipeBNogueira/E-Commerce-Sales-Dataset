@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Dataset
+# E-Commerce Sales Dataset
 
 Este repositório contém um conjunto de dados detalhado e abrangente sobre a **lucratividade das vendas em e-commerce**, cobrindo múltiplos canais, produtos e métricas financeiras.
 
@@ -51,6 +51,14 @@ Você pode baixar todos os arquivos para análise local ou importar diretamente 
 
 ---
 
+## Exemplos de Gráficos
+
+Abaixo segue um exemplo de gráfico gerado a partir dos dados:
+
+![Gráfico de Vendas](images/grafico_vendas.png)
+
+---
+
 ## Possíveis Aplicações e Pesquisas
 
 - **Análise comparativa de lucratividade** entre canais de vendas como Shiprocket e INCREFF  
@@ -78,21 +86,3 @@ Se você tiver dúvidas, sugestões ou quiser colaborar, fique à vontade para a
 ---
 
 *Este README foi elaborado para facilitar o entendimento e o uso deste valioso conjunto de dados, incentivando análises aprofundadas e pesquisa aplicada no setor de e-commerce.*
-
-## Exemplos de Análise com Gráficos
-
-### Comparação de Lucratividade entre Canais
-
-![Comparação de Lucratividade](images/profitability_comparison.png)
-
-Este gráfico mostra a comparação da margem de lucro entre os canais **Shiprocket** e **INCREFF**, permitindo identificar qual canal apresenta maior rentabilidade para diferentes categorias de produto.
-
----
-
-### Tendência Mensal de Vendas
-
-![Tendência de Vendas](images/sales_trend.png)
-
-Este gráfico apresenta a evolução do volume de vendas ao longo dos meses, permitindo identificar sazonalidades e picos de demanda.
-
----
