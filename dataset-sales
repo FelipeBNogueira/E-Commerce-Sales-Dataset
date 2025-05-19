@@ -1,0 +1,99 @@
+# E-Commerce Sales Dataset
+
+Este repositório contém um conjunto de dados detalhado e abrangente sobre a **lucratividade das vendas em e-commerce**, cobrindo múltiplos canais, produtos e métricas financeiras.
+
+---
+
+## Descrição do Dataset
+
+Este dataset oferece uma visão completa e aprofundada sobre a performance financeira e operacional de vendas online, permitindo análises robustas sobre margens, tendências e eficiência comercial.
+
+Inclui dados como:
+
+- Códigos SKU e números de design para identificação de produtos  
+- Níveis de estoque atualizados  
+- Categorias, tamanhos e cores dos produtos  
+- Preços máximos de venda ao público (MRP) em diversas plataformas:  
+  - Ajio, Amazon, Amazon FBA, Flipkart, Limeroad, Myntra, Paytm, entre outras  
+- Informações financeiras e transacionais essenciais, como:  
+  - Valor pago pelo cliente  
+  - Preço unitário por peça  
+  - Datas das vendas e períodos mensais  
+  - Categorias e status B2B  
+  - Quantidades vendidas  
+  - Moeda utilizada  
+  - Valor bruto total da venda
+
+---
+
+## Estrutura dos Arquivos
+
+| Arquivo        | Descrição                                   |
+|----------------|---------------------------------------------|
+| arquivo1.csv   | Dados gerais de vendas segmentados por região |
+| arquivo2.csv   | Detalhes completos dos produtos vendidos    |
+| arquivo3.csv   | Informações e perfis dos clientes            |
+| arquivo4.csv   | Histórico detalhado de todas as transações  |
+| arquivo5.csv   | Dados categóricos e classificações dos produtos |
+| arquivo6.csv   | Status e níveis de estoque atuais            |
+| arquivo7.csv   | Resumo mensal consolidado de vendas           |
+
+> *Observação:* Substitua os nomes e descrições dos arquivos acima conforme os nomes reais dos seus arquivos CSV.
+
+---
+
+## Acesso ao Dataset
+
+Os dados estão disponíveis publicamente nesta pasta do Google Drive:  
+[📂 Pasta Pública do Dataset](https://drive.google.com/drive/folders/1fdm2_OANtwMAo3ealoQ0GNB-_zkEcNIL?usp=drive_link)
+
+Você pode baixar todos os arquivos para análise local ou importar diretamente em ferramentas como Python, R, Power BI, etc.
+
+---
+
+## Possíveis Aplicações e Pesquisas
+
+- **Análise comparativa de lucratividade** entre canais de vendas como Shiprocket e INCREFF  
+- **Modelagem preditiva de vendas** com Machine Learning para estimar volumes futuros e lucros  
+- **Estudo de composição de custos e margens** considerando preços e descontos em múltiplas plataformas  
+- **Insights sobre comportamento do consumidor** por categoria, tamanho, cor e faixa de preço  
+
+---
+
+## Licença
+
+Este dataset está licenciado sob a licença **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
+
+Você pode utilizar, compartilhar e adaptar os dados livremente, desde que dê o devido crédito ao(s) autor(es) original(is).  
+
+Para mais detalhes, consulte:  
+[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+
+---
+
+## Contato
+
+Se você tiver dúvidas, sugestões ou quiser colaborar, fique à vontade para abrir uma issue ou entrar em contato.
+
+---
+
+*Este README foi elaborado para facilitar o entendimento e o uso deste valioso conjunto de dados, incentivando análises aprofundadas e pesquisa aplicada no setor de e-commerce.*
+
+## Exemplos de Análise com Gráficos
+
+### Comparação de Lucratividade entre Canais
+
+![Comparação de Lucratividade](images/profitability_comparison.png)
+
+Este gráfico mostra a comparação da margem de lucro entre os canais **Shiprocket** e **INCREFF**, permitindo identificar qual canal apresenta maior rentabilidade para diferentes categorias de produto.
+
+---
+
+### Tendência Mensal de Vendas
+
+![Tendência de Vendas](images/sales_trend.png)
+
+Este gráfico apresenta a evolução do volume de vendas ao longo dos meses, permitindo identificar sazonalidades e picos de demanda.
+
+---
+
